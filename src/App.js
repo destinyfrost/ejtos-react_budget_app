@@ -49,11 +49,8 @@ const App = () => {
                     <div className='col-sm'>
                         <ExpenseList />
                     </div>}         
-
-                        {//ExpenseItem component
-                    <div className='col-sm'>
-                        <ExpenseItem />
-                    </div>}        
+  
+                       
                     <h3 className='mt-3'>Change Allocation<br></br></h3>
                         {//AllocationForm component
                     <div className='col-sm'>
