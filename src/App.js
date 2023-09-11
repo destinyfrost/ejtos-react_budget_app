@@ -18,10 +18,11 @@ import ExpenseTotal from './components/ExpenseTotal';
 import ExpenseList from './components/ExpenseList';
 
 //Code to import ExpenseItem.js
-import ExpenseItem from './components/ExpenseItem';
+//import ExpenseItem from './components/ExpenseItem';
 
 //Code to import AllocationForm.js
 import AllocationForm from './components/AllocationForm';
+//import Currency from './components/Currency';
 
 const App = () => {
     return (
