@@ -11,7 +11,7 @@ const Budget = (props) => {
 
 		
 		if(val<totalExpenses) {
-			alert("You cannot reduce the budget that is already allocated!");
+			alert("You cannot reduce the budget value lower than the spending!");
 		} else {
 			dispatch({
 				type: 'SET_BUDGET',
